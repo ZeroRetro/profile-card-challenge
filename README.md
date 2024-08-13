@@ -4,8 +4,7 @@ The challenge can be found at [https://app.bigdevsoon.me/challenges/profile-card
 
 ## Description
 
-The Profile Card Challenge is a web development challenge. I did my profile card without using the challenge guide, just using the screenshot as an example.
-The challenge provides a design mockup and requires participants to recreate the design using their coding skills.
+This is a web development challenge. I did my profile card without using the challenge guide, just using the screenshot as an example.
 
 ## How to Run
 
