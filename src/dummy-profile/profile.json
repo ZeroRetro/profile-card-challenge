@@ -1,0 +1,12 @@
+{
+  "name": "ZeroRetro",
+  "description": "Amante de los videojuegos y la tecnología =)",
+  "image": "./dummy-profile/profile-picture.jpg",
+  "socials": {
+    "twitter": "https://twitter.com/ZeroRetr0",
+    "youtube": "https://www.youtube.com/@ZeroRetroVideos",
+    "twitch": "https://www.twitch.tv/zeroretr0",
+    "instagram": "https://www.instagram.com/zeroretr0/",
+    "github": "https://github.com/ZeroRetro"
+  }
+}
