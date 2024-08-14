@@ -12,7 +12,7 @@ To run this project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Go to the project folder.
-3. Execute `npm start`.
+3. Execute `npm install` and `npm start`.
 
 ## License
 
